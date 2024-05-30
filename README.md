@@ -4,3 +4,4 @@ Contributeurs été 2024
 ## Ajouter votre nom : 
 
 - Alexandre Bérubé
+- Francesco Mejia Solari
