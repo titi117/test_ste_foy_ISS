@@ -5,3 +5,5 @@ Contributeurs été 2024
 
 - Alexandre Bérubé
 - Mélissa Bédard 
+- Francesco Mejia Solari
+
