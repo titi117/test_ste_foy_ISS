@@ -2,8 +2,9 @@
 Contributeurs été 2024
 
 ## Ajouter votre nom : 
--Derrick Tamfu
+
 - Alexandre Bérubé
 - Mélissa Bédard 
 - Francesco Mejia Solari
+- Derrick Tamfu
 
