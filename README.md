@@ -7,4 +7,4 @@ Contributeurs été 2024
 - Mélissa Bédard 
 - Francesco Mejia Solari
 - Derrick Tamfu
-
+- David Gagnon
