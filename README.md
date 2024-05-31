@@ -8,3 +8,4 @@ Contributeurs été 2024
 - Francesco Mejia Solari
 - Derrick Tamfu
 - David Gagnon
+- Thierry Thomassin Simard
